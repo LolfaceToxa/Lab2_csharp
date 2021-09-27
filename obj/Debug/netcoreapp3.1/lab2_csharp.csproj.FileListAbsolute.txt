@@ -1,0 +1,13 @@
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.exe
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.deps.json
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.runtimeconfig.json
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.runtimeconfig.dev.json
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.dll
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\bin\Debug\netcoreapp3.1\lab2_csharp.pdb
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.csprojAssemblyReference.cache
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.AssemblyInfoInputs.cache
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.AssemblyInfo.cs
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.dll
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.pdb
+C:\Users\anton\Source\Repos\lab2_csharp\lab2_csharp\obj\Debug\netcoreapp3.1\lab2_csharp.genruntimeconfig.cache
