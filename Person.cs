@@ -85,7 +85,7 @@ namespace lab2_csharp
         public static bool operator ==(Person p1, Person p2)
         {
             // If both are null, or both are same instance, return true.
-            if (Equals(p1, p2))
+            if (Object.ReferenceEquals(p1, p2))
             {
                 return true;
             }

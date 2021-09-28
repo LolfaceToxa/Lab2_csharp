@@ -34,7 +34,7 @@ namespace lab2_csharp
             {
                 foreach (var test in tests)
                 {
-                    if (((Test)tests).Subject == ((Exam)exams[i]).Name)
+                    if (((Test)test).Subject == ((Exam)exams[i]).Name)
                     {
                         index = i;
                         return true;

@@ -217,7 +217,18 @@ namespace lab2_csharp
 
         public static bool operator ==(Student s1, Student s2)
         {
-            return (s1.Equals(s2));
+            // If both are null, or both are same instance, return true.
+            if (Object.ReferenceEquals(s1, s2))
+            {
+                return true;
+            }
+
+            // If one is null, but not both, return false.
+            if (((object)s1 == null) || ((object)s2== null))
+            {
+                return false;
+            }
+            return s1.Equals(s2);
         }
 
 
